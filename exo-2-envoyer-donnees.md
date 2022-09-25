@@ -73,7 +73,7 @@ Cet exercice a pour objectifs :
 
 ![](images/exo2/authorization_apikey.png)
 
-* D'autre fois il faura se connecter afin d'obtenir un jeton d'authentification, que l'on devra utiliser pour effectuer certains appels à nos API
+* D'autre fois il faudra se connecter afin d'obtenir un jeton d'authentification, que l'on devra utiliser pour effectuer certains appels à nos API
 * Pour cela on fait une requête de type POST avec les informations de connexion sur l'adresse de connexion, la réponse contient alors un jeton d'authentification, qu'il faut copier, et qu'il faudra ajouter dans Authorization (le type dépend du mode d'authentification choisi de l'API). 
 
 
